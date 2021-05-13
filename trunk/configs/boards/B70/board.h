@@ -1,7 +1,7 @@
 /* B70 */
-#define BOARD_PID		"B70"
-#define BOARD_NAME		"B70"
-#define BOARD_DESC		"B70 Wireless Router"
+#define BOARD_PID		"HC5961"
+#define BOARD_NAME		"HC5961"
+#define BOARD_DESC		"HC5961 Wireless Router"
 #define BOARD_VENDOR_NAME	"HiWiFi/Gee Technology"
 #define BOARD_VENDOR_URL		"http://www.hiwifi.com/"
 #define BOARD_MODEL_URL		"http://www.hiwifi.com/"
